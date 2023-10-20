@@ -1,0 +1,4 @@
+- this project consists of a home, about, and portfolio page
+- I would like to touch up on some styling for all pages
+- Need to remember to comment out parts I had issues with, rather than deleting the idea altogether
+- See about attaching link to actual webpage as opposed to the repository location
